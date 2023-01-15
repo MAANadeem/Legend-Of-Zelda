@@ -1,0 +1,17 @@
+48
+48
+Resources/OverWorld/regionBackground.png
+Resources/OverWorld/RegionLayouts/region6.png
+6
+0000FF
+Resources/OverWorld/OWTileSet/OWTiles20.png
+FFFF00
+Resources/OverWorld/OWTileSet/OWTiles03.png
+00FF00
+Resources/OverWorld/OWTileSet/OWTiles13.png
+FF00FF
+Resources/OverWorld/OWTileSet/OWTiles23.png
+00FFFF
+Resources/OverWorld/OWTileSet/OWTiles12.png
+FFFFFF
+Resources/OverWorld/OWTileSet/OWTiles10.png
