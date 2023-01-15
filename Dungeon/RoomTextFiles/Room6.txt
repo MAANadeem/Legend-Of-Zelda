@@ -1,0 +1,9 @@
+48
+48
+Resources/Dungeon/dRoom.png
+Resources/Dungeon/RoomLayouts/floor6.png
+2
+0000FF
+Resources/Dungeon/dungeonTileSet/dTile0.png
+FF0000
+Resources/Dungeon/dungeonTileSet/dTile1.png
